@@ -1,2 +1,2 @@
 # CSE422-AI
-Artificial Intelligence
+Artificial Intelligence (Summer 2022)

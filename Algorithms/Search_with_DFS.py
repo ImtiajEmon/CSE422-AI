@@ -35,6 +35,7 @@ for i in range(edges):
 strt_node = 1
 goal_node = int(input("Enter the goal node: "))
 
+found = 0
 found = dfs(strt_node, goal_node)
 
 path = []
